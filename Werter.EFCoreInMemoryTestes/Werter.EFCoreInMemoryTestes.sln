@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Werter.EFCoreInMemoryTestes", "Werter.EFCoreInMemoryTestes\Werter.EFCoreInMemoryTestes.csproj", "{8FCEDEDB-26FA-433F-BDF6-DA898086F93E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FCEDEDB-26FA-433F-BDF6-DA898086F93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCEDEDB-26FA-433F-BDF6-DA898086F93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCEDEDB-26FA-433F-BDF6-DA898086F93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCEDEDB-26FA-433F-BDF6-DA898086F93E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEFC8D36-1415-407D-8E8F-0852FB18B9B7}
+	EndGlobalSection
+EndGlobal
